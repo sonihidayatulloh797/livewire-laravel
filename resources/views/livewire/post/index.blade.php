@@ -14,6 +14,8 @@ Data Posts - Belajar Livewire 3
             </div>
             @endif
 
+            <h1>CRUD dengan MODAL</h1>
+
             <a href="/create" wire:navigate class="btn btn-md btn-success rounded shadow-sm border-0 mb-3">ADD NEW
                 POST</a>
 
